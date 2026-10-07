@@ -1,0 +1,905 @@
+[
+ {
+  "_id": "sample0",
+  "question": "Which university did the director of Interstellar study at?",
+  "answer": "University College London",
+  "type": "bridge",
+  "level": "medium",
+  "supporting_facts": [
+   [
+    "Interstellar (film)",
+    0
+   ],
+   [
+    "Christopher Nolan",
+    0
+   ]
+  ],
+  "context": [
+   [
+    "Gitanjali",
+    [
+     "Gitanjali is a collection of poems by the Bengali poet Rabindranath Tagore.",
+     "The English translation won the Nobel Prize in Literature in 1913."
+    ]
+   ],
+   [
+    "Amy Adams",
+    [
+     "Amy Lou Adams is an American actress.",
+     "She was born in Vicenza, Italy, to American parents and was raised in Castle Rock, Colorado."
+    ]
+   ],
+   [
+    "Interstellar (film)",
+    [
+     "Interstellar is a 2014 epic science fiction film co-written, directed, and produced by Christopher Nolan.",
+     "It stars Matthew McConaughey, Anne Hathaway and Jessica Chastain.",
+     "Set in a dystopian future, the film follows a group of astronauts who travel through a wormhole."
+    ]
+   ],
+   [
+    "Kolkata",
+    [
+     "Kolkata, formerly Calcutta, is the capital of the Indian state of West Bengal.",
+     "It is home to the Indian Institute of Management Calcutta."
+    ]
+   ],
+   [
+    "Satyajit Ray",
+    [
+     "Satyajit Ray was an Indian film director, writer and illustrator.",
+     "He was born in Calcutta into a Bengali family and directed thirty-six films."
+    ]
+   ],
+   [
+    "Christopher Nolan",
+    [
+     "Christopher Edward Nolan is a British and American filmmaker.",
+     "Born in London, Nolan studied English literature at University College London.",
+     "He is known for Memento, The Dark Knight trilogy and Inception."
+    ]
+   ],
+   [
+    "Denis Villeneuve",
+    [
+     "Denis Villeneuve is a Canadian filmmaker.",
+     "He is a four-time recipient of the Canadian Screen Award for Best Direction.",
+     "He directed Arrival, Blade Runner 2049 and Dune."
+    ]
+   ],
+   [
+    "Pather Panchali",
+    [
+     "Pather Panchali is a 1955 Indian Bengali-language drama film written and directed by Satyajit Ray.",
+     "It was the first film of The Apu Trilogy."
+    ]
+   ],
+   [
+    "First for Women",
+    [
+     "First for Women is a woman's magazine published by Bauer Media Group in the USA.",
+     "The magazine was started in 1989.",
+     "It is based in Englewood Cliffs, New Jersey."
+    ]
+   ],
+   [
+    "Visva-Bharati University",
+    [
+     "Visva-Bharati is a public central university located in Santiniketan, West Bengal, India.",
+     "It was founded by Rabindranath Tagore."
+    ]
+   ]
+  ]
+ },
+ {
+  "_id": "sample1",
+  "question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+  "answer": "yes",
+  "type": "comparison",
+  "level": "medium",
+  "supporting_facts": [
+   [
+    "Scott Derrickson",
+    0
+   ],
+   [
+    "Ed Wood",
+    0
+   ]
+  ],
+  "context": [
+   [
+    "Scott Derrickson",
+    [
+     "Scott Derrickson is an American director, screenwriter and producer.",
+     "He lives in Los Angeles, California.",
+     "He is best known for directing horror films and the Marvel film Doctor Strange."
+    ]
+   ],
+   [
+    "Arrival (film)",
+    [
+     "Arrival is a 2016 American science fiction drama film directed by Denis Villeneuve.",
+     "It stars Amy Adams as a linguist who is recruited to communicate with aliens."
+    ]
+   ],
+   [
+    "Java (programming language)",
+    [
+     "Java is a high-level, class-based, object-oriented programming language.",
+     "It was originally developed by James Gosling at Sun Microsystems and released in 1995."
+    ]
+   ],
+   [
+    "Leonardo DiCaprio",
+    [
+     "Leonardo Wilhelm DiCaprio is an American actor and film producer born in Los Angeles.",
+     "He won the Academy Award for Best Actor for The Revenant."
+    ]
+   ],
+   [
+    "Amy Adams",
+    [
+     "Amy Lou Adams is an American actress.",
+     "She was born in Vicenza, Italy, to American parents and was raised in Castle Rock, Colorado."
+    ]
+   ],
+   [
+    "Dune (2021 film)",
+    [
+     "Dune is a 2021 American epic science fiction film directed by Denis Villeneuve, starring Timothée Chalamet."
+    ]
+   ],
+   [
+    "Python (programming language)",
+    [
+     "Python is a high-level, general-purpose programming language.",
+     "It was created by Guido van Rossum and first released in 1991."
+    ]
+   ],
+   [
+    "Ed Wood",
+    [
+     "Edward Davis Wood Jr.",
+     "was an American filmmaker, actor, and author.",
+     "In the 1950s, Wood made several low-budget science fiction, crime and horror films."
+    ]
+   ],
+   [
+    "Inception",
+    [
+     "Inception is a 2010 science fiction action film written and directed by Christopher Nolan, starring Leonardo DiCaprio as a professional thief who steals information by infiltrating dreams."
+    ]
+   ],
+   [
+    "Denis Villeneuve",
+    [
+     "Denis Villeneuve is a Canadian filmmaker.",
+     "He is a four-time recipient of the Canadian Screen Award for Best Direction.",
+     "He directed Arrival, Blade Runner 2049 and Dune."
+    ]
+   ]
+  ]
+ },
+ {
+  "_id": "sample2",
+  "question": "Which magazine was started first, Arthur's Magazine or First for Women?",
+  "answer": "Arthur's Magazine",
+  "type": "comparison",
+  "level": "medium",
+  "supporting_facts": [
+   [
+    "Arthur's Magazine",
+    0
+   ],
+   [
+    "First for Women",
+    0
+   ]
+  ],
+  "context": [
+   [
+    "Python (programming language)",
+    [
+     "Python is a high-level, general-purpose programming language.",
+     "It was created by Guido van Rossum and first released in 1991."
+    ]
+   ],
+   [
+    "Ed Wood",
+    [
+     "Edward Davis Wood Jr.",
+     "was an American filmmaker, actor, and author.",
+     "In the 1950s, Wood made several low-budget science fiction, crime and horror films."
+    ]
+   ],
+   [
+    "Gitanjali",
+    [
+     "Gitanjali is a collection of poems by the Bengali poet Rabindranath Tagore.",
+     "The English translation won the Nobel Prize in Literature in 1913."
+    ]
+   ],
+   [
+    "Satyajit Ray",
+    [
+     "Satyajit Ray was an Indian film director, writer and illustrator.",
+     "He was born in Calcutta into a Bengali family and directed thirty-six films."
+    ]
+   ],
+   [
+    "Rabindranath Tagore",
+    [
+     "Rabindranath Tagore was a Bengali poet, writer and composer from Calcutta.",
+     "In 1921 he founded Visva-Bharati University in Santiniketan."
+    ]
+   ],
+   [
+    "Inception",
+    [
+     "Inception is a 2010 science fiction action film written and directed by Christopher Nolan, starring Leonardo DiCaprio as a professional thief who steals information by infiltrating dreams."
+    ]
+   ],
+   [
+    "First for Women",
+    [
+     "First for Women is a woman's magazine published by Bauer Media Group in the USA.",
+     "The magazine was started in 1989.",
+     "It is based in Englewood Cliffs, New Jersey."
+    ]
+   ],
+   [
+    "Christopher Nolan",
+    [
+     "Christopher Edward Nolan is a British and American filmmaker.",
+     "Born in London, Nolan studied English literature at University College London.",
+     "He is known for Memento, The Dark Knight trilogy and Inception."
+    ]
+   ],
+   [
+    "Interstellar (film)",
+    [
+     "Interstellar is a 2014 epic science fiction film co-written, directed, and produced by Christopher Nolan.",
+     "It stars Matthew McConaughey, Anne Hathaway and Jessica Chastain.",
+     "Set in a dystopian future, the film follows a group of astronauts who travel through a wormhole."
+    ]
+   ],
+   [
+    "Arthur's Magazine",
+    [
+     "Arthur's Magazine was an American literary periodical published in Philadelphia in the 19th century.",
+     "Edited by Timothy Shay Arthur, it was started in 1844."
+    ]
+   ]
+  ]
+ },
+ {
+  "_id": "sample3",
+  "question": "In which country was the lead actress of Arrival born?",
+  "answer": "Italy",
+  "type": "bridge",
+  "level": "medium",
+  "supporting_facts": [
+   [
+    "Arrival (film)",
+    0
+   ],
+   [
+    "Amy Adams",
+    0
+   ]
+  ],
+  "context": [
+   [
+    "Leonardo DiCaprio",
+    [
+     "Leonardo Wilhelm DiCaprio is an American actor and film producer born in Los Angeles.",
+     "He won the Academy Award for Best Actor for The Revenant."
+    ]
+   ],
+   [
+    "Inception",
+    [
+     "Inception is a 2010 science fiction action film written and directed by Christopher Nolan, starring Leonardo DiCaprio as a professional thief who steals information by infiltrating dreams."
+    ]
+   ],
+   [
+    "Matthew McConaughey",
+    [
+     "Matthew David McConaughey is an American actor.",
+     "He was born in Uvalde, Texas, and graduated from the University of Texas at Austin with a degree in radio-television-film."
+    ]
+   ],
+   [
+    "Rabindranath Tagore",
+    [
+     "Rabindranath Tagore was a Bengali poet, writer and composer from Calcutta.",
+     "In 1921 he founded Visva-Bharati University in Santiniketan."
+    ]
+   ],
+   [
+    "Arrival (film)",
+    [
+     "Arrival is a 2016 American science fiction drama film directed by Denis Villeneuve.",
+     "It stars Amy Adams as a linguist who is recruited to communicate with aliens."
+    ]
+   ],
+   [
+    "Ed Wood",
+    [
+     "Edward Davis Wood Jr.",
+     "was an American filmmaker, actor, and author.",
+     "In the 1950s, Wood made several low-budget science fiction, crime and horror films."
+    ]
+   ],
+   [
+    "Gitanjali",
+    [
+     "Gitanjali is a collection of poems by the Bengali poet Rabindranath Tagore.",
+     "The English translation won the Nobel Prize in Literature in 1913."
+    ]
+   ],
+   [
+    "Python (programming language)",
+    [
+     "Python is a high-level, general-purpose programming language.",
+     "It was created by Guido van Rossum and first released in 1991."
+    ]
+   ],
+   [
+    "Amy Adams",
+    [
+     "Amy Lou Adams is an American actress.",
+     "She was born in Vicenza, Italy, to American parents and was raised in Castle Rock, Colorado."
+    ]
+   ],
+   [
+    "Java (programming language)",
+    [
+     "Java is a high-level, class-based, object-oriented programming language.",
+     "It was originally developed by James Gosling at Sun Microsystems and released in 1995."
+    ]
+   ]
+  ]
+ },
+ {
+  "_id": "sample4",
+  "question": "From which university did the creator of the Python programming language get his degree?",
+  "answer": "University of Amsterdam",
+  "type": "bridge",
+  "level": "medium",
+  "supporting_facts": [
+   [
+    "Python (programming language)",
+    0
+   ],
+   [
+    "Guido van Rossum",
+    0
+   ]
+  ],
+  "context": [
+   [
+    "Leonardo DiCaprio",
+    [
+     "Leonardo Wilhelm DiCaprio is an American actor and film producer born in Los Angeles.",
+     "He won the Academy Award for Best Actor for The Revenant."
+    ]
+   ],
+   [
+    "Inception",
+    [
+     "Inception is a 2010 science fiction action film written and directed by Christopher Nolan, starring Leonardo DiCaprio as a professional thief who steals information by infiltrating dreams."
+    ]
+   ],
+   [
+    "Java (programming language)",
+    [
+     "Java is a high-level, class-based, object-oriented programming language.",
+     "It was originally developed by James Gosling at Sun Microsystems and released in 1995."
+    ]
+   ],
+   [
+    "Python (programming language)",
+    [
+     "Python is a high-level, general-purpose programming language.",
+     "It was created by Guido van Rossum and first released in 1991."
+    ]
+   ],
+   [
+    "Arthur's Magazine",
+    [
+     "Arthur's Magazine was an American literary periodical published in Philadelphia in the 19th century.",
+     "Edited by Timothy Shay Arthur, it was started in 1844."
+    ]
+   ],
+   [
+    "Satyajit Ray",
+    [
+     "Satyajit Ray was an Indian film director, writer and illustrator.",
+     "He was born in Calcutta into a Bengali family and directed thirty-six films."
+    ]
+   ],
+   [
+    "Guido van Rossum",
+    [
+     "Guido van Rossum is a Dutch programmer.",
+     "He received a master's degree in mathematics and computer science from the University of Amsterdam in 1982."
+    ]
+   ],
+   [
+    "Gitanjali",
+    [
+     "Gitanjali is a collection of poems by the Bengali poet Rabindranath Tagore.",
+     "The English translation won the Nobel Prize in Literature in 1913."
+    ]
+   ],
+   [
+    "Visva-Bharati University",
+    [
+     "Visva-Bharati is a public central university located in Santiniketan, West Bengal, India.",
+     "It was founded by Rabindranath Tagore."
+    ]
+   ],
+   [
+    "First for Women",
+    [
+     "First for Women is a woman's magazine published by Bauer Media Group in the USA.",
+     "The magazine was started in 1989.",
+     "It is based in Englewood Cliffs, New Jersey."
+    ]
+   ]
+  ]
+ },
+ {
+  "_id": "sample5",
+  "question": "Where was the company that originally developed Java headquartered?",
+  "answer": "Santa Clara, California",
+  "type": "bridge",
+  "level": "medium",
+  "supporting_facts": [
+   [
+    "Java (programming language)",
+    0
+   ],
+   [
+    "Sun Microsystems",
+    0
+   ]
+  ],
+  "context": [
+   [
+    "Java (programming language)",
+    [
+     "Java is a high-level, class-based, object-oriented programming language.",
+     "It was originally developed by James Gosling at Sun Microsystems and released in 1995."
+    ]
+   ],
+   [
+    "Arrival (film)",
+    [
+     "Arrival is a 2016 American science fiction drama film directed by Denis Villeneuve.",
+     "It stars Amy Adams as a linguist who is recruited to communicate with aliens."
+    ]
+   ],
+   [
+    "Pather Panchali",
+    [
+     "Pather Panchali is a 1955 Indian Bengali-language drama film written and directed by Satyajit Ray.",
+     "It was the first film of The Apu Trilogy."
+    ]
+   ],
+   [
+    "Christopher Nolan",
+    [
+     "Christopher Edward Nolan is a British and American filmmaker.",
+     "Born in London, Nolan studied English literature at University College London.",
+     "He is known for Memento, The Dark Knight trilogy and Inception."
+    ]
+   ],
+   [
+    "Leonardo DiCaprio",
+    [
+     "Leonardo Wilhelm DiCaprio is an American actor and film producer born in Los Angeles.",
+     "He won the Academy Award for Best Actor for The Revenant."
+    ]
+   ],
+   [
+    "Sun Microsystems",
+    [
+     "Sun Microsystems was an American technology company headquartered in Santa Clara, California.",
+     "It was acquired by Oracle Corporation in 2010."
+    ]
+   ],
+   [
+    "Guido van Rossum",
+    [
+     "Guido van Rossum is a Dutch programmer.",
+     "He received a master's degree in mathematics and computer science from the University of Amsterdam in 1982."
+    ]
+   ],
+   [
+    "Inception",
+    [
+     "Inception is a 2010 science fiction action film written and directed by Christopher Nolan, starring Leonardo DiCaprio as a professional thief who steals information by infiltrating dreams."
+    ]
+   ],
+   [
+    "Dune (2021 film)",
+    [
+     "Dune is a 2021 American epic science fiction film directed by Denis Villeneuve, starring Timothée Chalamet."
+    ]
+   ],
+   [
+    "James Gosling",
+    [
+     "James Gosling is a Canadian computer scientist, best known as the founder and lead designer behind the Java programming language.",
+     "He earned a PhD from Carnegie Mellon University."
+    ]
+   ]
+  ]
+ },
+ {
+  "_id": "sample6",
+  "question": "Which university was founded by the author of Gitanjali?",
+  "answer": "Visva-Bharati University",
+  "type": "bridge",
+  "level": "medium",
+  "supporting_facts": [
+   [
+    "Gitanjali",
+    0
+   ],
+   [
+    "Rabindranath Tagore",
+    0
+   ]
+  ],
+  "context": [
+   [
+    "Amy Adams",
+    [
+     "Amy Lou Adams is an American actress.",
+     "She was born in Vicenza, Italy, to American parents and was raised in Castle Rock, Colorado."
+    ]
+   ],
+   [
+    "Denis Villeneuve",
+    [
+     "Denis Villeneuve is a Canadian filmmaker.",
+     "He is a four-time recipient of the Canadian Screen Award for Best Direction.",
+     "He directed Arrival, Blade Runner 2049 and Dune."
+    ]
+   ],
+   [
+    "Sun Microsystems",
+    [
+     "Sun Microsystems was an American technology company headquartered in Santa Clara, California.",
+     "It was acquired by Oracle Corporation in 2010."
+    ]
+   ],
+   [
+    "First for Women",
+    [
+     "First for Women is a woman's magazine published by Bauer Media Group in the USA.",
+     "The magazine was started in 1989.",
+     "It is based in Englewood Cliffs, New Jersey."
+    ]
+   ],
+   [
+    "Satyajit Ray",
+    [
+     "Satyajit Ray was an Indian film director, writer and illustrator.",
+     "He was born in Calcutta into a Bengali family and directed thirty-six films."
+    ]
+   ],
+   [
+    "Gitanjali",
+    [
+     "Gitanjali is a collection of poems by the Bengali poet Rabindranath Tagore.",
+     "The English translation won the Nobel Prize in Literature in 1913."
+    ]
+   ],
+   [
+    "Rabindranath Tagore",
+    [
+     "Rabindranath Tagore was a Bengali poet, writer and composer from Calcutta.",
+     "In 1921 he founded Visva-Bharati University in Santiniketan."
+    ]
+   ],
+   [
+    "Pather Panchali",
+    [
+     "Pather Panchali is a 1955 Indian Bengali-language drama film written and directed by Satyajit Ray.",
+     "It was the first film of The Apu Trilogy."
+    ]
+   ],
+   [
+    "James Gosling",
+    [
+     "James Gosling is a Canadian computer scientist, best known as the founder and lead designer behind the Java programming language.",
+     "He earned a PhD from Carnegie Mellon University."
+    ]
+   ],
+   [
+    "Inception",
+    [
+     "Inception is a 2010 science fiction action film written and directed by Christopher Nolan, starring Leonardo DiCaprio as a professional thief who steals information by infiltrating dreams."
+    ]
+   ]
+  ]
+ },
+ {
+  "_id": "sample7",
+  "question": "Are Denis Villeneuve and Christopher Nolan from the same country?",
+  "answer": "no",
+  "type": "comparison",
+  "level": "medium",
+  "supporting_facts": [
+   [
+    "Denis Villeneuve",
+    0
+   ],
+   [
+    "Christopher Nolan",
+    0
+   ]
+  ],
+  "context": [
+   [
+    "Blade Runner 2049",
+    [
+     "Blade Runner 2049 is a 2017 American science fiction film directed by Denis Villeneuve, starring Ryan Gosling and Harrison Ford."
+    ]
+   ],
+   [
+    "Scott Derrickson",
+    [
+     "Scott Derrickson is an American director, screenwriter and producer.",
+     "He lives in Los Angeles, California.",
+     "He is best known for directing horror films and the Marvel film Doctor Strange."
+    ]
+   ],
+   [
+    "Leonardo DiCaprio",
+    [
+     "Leonardo Wilhelm DiCaprio is an American actor and film producer born in Los Angeles.",
+     "He won the Academy Award for Best Actor for The Revenant."
+    ]
+   ],
+   [
+    "Pather Panchali",
+    [
+     "Pather Panchali is a 1955 Indian Bengali-language drama film written and directed by Satyajit Ray.",
+     "It was the first film of The Apu Trilogy."
+    ]
+   ],
+   [
+    "Matthew McConaughey",
+    [
+     "Matthew David McConaughey is an American actor.",
+     "He was born in Uvalde, Texas, and graduated from the University of Texas at Austin with a degree in radio-television-film."
+    ]
+   ],
+   [
+    "Inception",
+    [
+     "Inception is a 2010 science fiction action film written and directed by Christopher Nolan, starring Leonardo DiCaprio as a professional thief who steals information by infiltrating dreams."
+    ]
+   ],
+   [
+    "Arthur's Magazine",
+    [
+     "Arthur's Magazine was an American literary periodical published in Philadelphia in the 19th century.",
+     "Edited by Timothy Shay Arthur, it was started in 1844."
+    ]
+   ],
+   [
+    "Christopher Nolan",
+    [
+     "Christopher Edward Nolan is a British and American filmmaker.",
+     "Born in London, Nolan studied English literature at University College London.",
+     "He is known for Memento, The Dark Knight trilogy and Inception."
+    ]
+   ],
+   [
+    "University College London",
+    [
+     "University College London is a public research university in London, England.",
+     "It was founded in 1826 and is a member institution of the federal University of London."
+    ]
+   ],
+   [
+    "Denis Villeneuve",
+    [
+     "Denis Villeneuve is a Canadian filmmaker.",
+     "He is a four-time recipient of the Canadian Screen Award for Best Direction.",
+     "He directed Arrival, Blade Runner 2049 and Dune."
+    ]
+   ]
+  ]
+ },
+ {
+  "_id": "sample8",
+  "question": "In which city was the director of Pather Panchali born?",
+  "answer": "Calcutta",
+  "type": "bridge",
+  "level": "medium",
+  "supporting_facts": [
+   [
+    "Pather Panchali",
+    0
+   ],
+   [
+    "Satyajit Ray",
+    0
+   ]
+  ],
+  "context": [
+   [
+    "Satyajit Ray",
+    [
+     "Satyajit Ray was an Indian film director, writer and illustrator.",
+     "He was born in Calcutta into a Bengali family and directed thirty-six films."
+    ]
+   ],
+   [
+    "Interstellar (film)",
+    [
+     "Interstellar is a 2014 epic science fiction film co-written, directed, and produced by Christopher Nolan.",
+     "It stars Matthew McConaughey, Anne Hathaway and Jessica Chastain.",
+     "Set in a dystopian future, the film follows a group of astronauts who travel through a wormhole."
+    ]
+   ],
+   [
+    "Amy Adams",
+    [
+     "Amy Lou Adams is an American actress.",
+     "She was born in Vicenza, Italy, to American parents and was raised in Castle Rock, Colorado."
+    ]
+   ],
+   [
+    "Matthew McConaughey",
+    [
+     "Matthew David McConaughey is an American actor.",
+     "He was born in Uvalde, Texas, and graduated from the University of Texas at Austin with a degree in radio-television-film."
+    ]
+   ],
+   [
+    "Christopher Nolan",
+    [
+     "Christopher Edward Nolan is a British and American filmmaker.",
+     "Born in London, Nolan studied English literature at University College London.",
+     "He is known for Memento, The Dark Knight trilogy and Inception."
+    ]
+   ],
+   [
+    "Dune (2021 film)",
+    [
+     "Dune is a 2021 American epic science fiction film directed by Denis Villeneuve, starring Timothée Chalamet."
+    ]
+   ],
+   [
+    "Java (programming language)",
+    [
+     "Java is a high-level, class-based, object-oriented programming language.",
+     "It was originally developed by James Gosling at Sun Microsystems and released in 1995."
+    ]
+   ],
+   [
+    "Pather Panchali",
+    [
+     "Pather Panchali is a 1955 Indian Bengali-language drama film written and directed by Satyajit Ray.",
+     "It was the first film of The Apu Trilogy."
+    ]
+   ],
+   [
+    "Denis Villeneuve",
+    [
+     "Denis Villeneuve is a Canadian filmmaker.",
+     "He is a four-time recipient of the Canadian Screen Award for Best Direction.",
+     "He directed Arrival, Blade Runner 2049 and Dune."
+    ]
+   ],
+   [
+    "University College London",
+    [
+     "University College London is a public research university in London, England.",
+     "It was founded in 1826 and is a member institution of the federal University of London."
+    ]
+   ]
+  ]
+ },
+ {
+  "_id": "sample9",
+  "question": "Which university did the lead actor of Interstellar graduate from?",
+  "answer": "University of Texas at Austin",
+  "type": "bridge",
+  "level": "medium",
+  "supporting_facts": [
+   [
+    "Interstellar (film)",
+    0
+   ],
+   [
+    "Matthew McConaughey",
+    0
+   ]
+  ],
+  "context": [
+   [
+    "First for Women",
+    [
+     "First for Women is a woman's magazine published by Bauer Media Group in the USA.",
+     "The magazine was started in 1989.",
+     "It is based in Englewood Cliffs, New Jersey."
+    ]
+   ],
+   [
+    "Matthew McConaughey",
+    [
+     "Matthew David McConaughey is an American actor.",
+     "He was born in Uvalde, Texas, and graduated from the University of Texas at Austin with a degree in radio-television-film."
+    ]
+   ],
+   [
+    "Dune (2021 film)",
+    [
+     "Dune is a 2021 American epic science fiction film directed by Denis Villeneuve, starring Timothée Chalamet."
+    ]
+   ],
+   [
+    "Denis Villeneuve",
+    [
+     "Denis Villeneuve is a Canadian filmmaker.",
+     "He is a four-time recipient of the Canadian Screen Award for Best Direction.",
+     "He directed Arrival, Blade Runner 2049 and Dune."
+    ]
+   ],
+   [
+    "Amy Adams",
+    [
+     "Amy Lou Adams is an American actress.",
+     "She was born in Vicenza, Italy, to American parents and was raised in Castle Rock, Colorado."
+    ]
+   ],
+   [
+    "Arthur's Magazine",
+    [
+     "Arthur's Magazine was an American literary periodical published in Philadelphia in the 19th century.",
+     "Edited by Timothy Shay Arthur, it was started in 1844."
+    ]
+   ],
+   [
+    "Scott Derrickson",
+    [
+     "Scott Derrickson is an American director, screenwriter and producer.",
+     "He lives in Los Angeles, California.",
+     "He is best known for directing horror films and the Marvel film Doctor Strange."
+    ]
+   ],
+   [
+    "Blade Runner 2049",
+    [
+     "Blade Runner 2049 is a 2017 American science fiction film directed by Denis Villeneuve, starring Ryan Gosling and Harrison Ford."
+    ]
+   ],
+   [
+    "Pather Panchali",
+    [
+     "Pather Panchali is a 1955 Indian Bengali-language drama film written and directed by Satyajit Ray.",
+     "It was the first film of The Apu Trilogy."
+    ]
+   ],
+   [
+    "Interstellar (film)",
+    [
+     "Interstellar is a 2014 epic science fiction film co-written, directed, and produced by Christopher Nolan.",
+     "It stars Matthew McConaughey, Anne Hathaway and Jessica Chastain.",
+     "Set in a dystopian future, the film follows a group of astronauts who travel through a wormhole."
+    ]
+   ]
+  ]
+ }
+]
